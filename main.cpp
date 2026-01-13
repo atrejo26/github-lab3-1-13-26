@@ -24,7 +24,7 @@ void printNameA_H()
 //--
 void printNameI_P()
 {
-    cout<<"None"<<endl;
+    cout<<"Alan Kwak"<<endl;
 }
 //--
 void printNameQ_Z()
