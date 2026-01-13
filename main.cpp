@@ -8,8 +8,8 @@ void printNameQ_Z();
 
 int main()
 {
-    cout<<"Course Roster: "<<endl;
-  
+    cout << "Course Roster: " << endl;
+
     printNameA_H();
     printNameI_P();
     printNameQ_Z();
@@ -21,7 +21,10 @@ void printNameA_H()
 {
     cout<<"Gustavo Arroyo"<<endl;
     cout<<"Jackson Bossart"<<endl;
-      cout<<"Timothy Fendrick"<<endl;
+    cout<<"Luke Bloomer"<<endl;
+    cout << " Somi Contreras " << endl;
+    cout<<"Timothy Fendrick"<<endl;
+    cout<<"Ryan Heffelman"<<endl;
 }
 //--
 void printNameI_P()
