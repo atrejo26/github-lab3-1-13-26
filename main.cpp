@@ -19,7 +19,7 @@ int main()
 //--
 void printNameA_H()
 {
-    cout << "Somi Contreras" << endl;
+    cout << " Somi Contreras " << endl;
 }
 //--
 void printNameI_P()
