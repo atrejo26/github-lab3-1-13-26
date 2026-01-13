@@ -21,6 +21,7 @@ void printNameA_H()
 {
     cout<<"Gustavo Arroyo"<<endl;
     cout<<"Jackson Bossart"<<endl;
+      cout<<"Timothy Fendrick"<<endl;
 }
 //--
 void printNameI_P()
